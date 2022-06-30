@@ -66,7 +66,7 @@ are able to proceed with a meeting.
 ## Elections
 
 Every year, the Steering Committee holds an election for open seats with SIG 
-Contributor Experience owning the process. Our [election policy document](link) 
+Contributor Experience owning the process. Our [election policy document](https://git.k8s.io/steering/elections.md) 
 covers the details for how this works.
 ### Vacancies and Removal
 
@@ -76,7 +76,7 @@ election will be offered the seat. This process will continue until the seat is
 filled. 
 
 In case this fails to fill the seat, a special election for that position will 
-be held as soon as possible. [Eligible voters](https://github.com/kubernetes/steering/blob/main/elections.md#eligibility-for-voting) from the most recent election 
+be held as soon as possible. [Eligible voters](https://git.k8s.io/steering/elections.md#eligibility-for-voting) from the most recent election 
 will vote in the special election (ie: eligibility will not be redetermined at 
 the time of the special election). A committee member elected in a special 
 election will serve out the remainder of the term for the person they are 
