@@ -63,6 +63,30 @@ are able to proceed with a meeting.
 * Quorum to meet is 1/2 members attending (eg: 6/12, 6/11, 4/7)
 * Quorum to vote in a meeting is 2/3 members attending (eg: 8/12, 8/11, 5/7)
 
+## Elections
+
+Every year, the Steering Committee holds an election for open seats with SIG 
+Contributor Experience owning the process. Our [election policy document](link) 
+covers the details for how this works.
+### Vacancies and Removal
+
+In the event of a resignation, removal, or other loss of an elected Steering 
+Committee member, the candidate with the next most votes from the previous 
+election will be offered the seat. This process will continue until the seat is 
+filled. 
+
+In case this fails to fill the seat, a special election for that position will 
+be held as soon as possible. [Eligible voters](https://github.com/kubernetes/steering/blob/main/elections.md#eligibility-for-voting) from the most recent election 
+will vote in the special election (ie: eligibility will not be redetermined at 
+the time of the special election). A committee member elected in a special 
+election will serve out the remainder of the term for the person they are 
+replacing, regardless of the length of that remainder.
+#### Removal
+
+A Steering Committee member may be removed by a two-thirds vote of the other 
+Steering Committee members, with the impacted individual ineligible to 
+participate in the vote.
+
 ## Inclusive Leadership Training
 
 Members of the committee must take an
