@@ -68,6 +68,7 @@ are able to proceed with a meeting.
 Every year, the Steering Committee holds an election for open seats with SIG 
 Contributor Experience owning the process. Our [election policy document](https://git.k8s.io/steering/elections.md) 
 covers the details for how this works.
+
 ### Vacancies and Removal
 
 In the event of a resignation, removal, or other loss of an elected Steering 
@@ -81,6 +82,7 @@ will vote in the special election (ie: eligibility will not be redetermined at
 the time of the special election). A committee member elected in a special 
 election will serve out the remainder of the term for the person they are 
 replacing, regardless of the length of that remainder.
+
 #### Removal
 
 A Steering Committee member may be removed by a two-thirds vote of the other 
