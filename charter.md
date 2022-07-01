@@ -93,7 +93,12 @@ their departure.
 The committee can choose to accept a member's resignation and carry out
 offboarding procedures at any time following the written notice.
 
-## Quorum
+## Voting
+
+In the course of the committee's operations, members will be expected to vote
+on decisions within the body's purview.
+
+### Quorum
 
 Steering committee members are generally expected to attend every meeting. We
 use the following guidelines to determine whether we have reached quorum and
@@ -103,13 +108,17 @@ are able to proceed with a meeting.
 * Quorum to meet is 1/2 members attending (eg: 6/12, 6/11, 4/7)
 * Quorum to vote in a meeting is 2/3 members attending (eg: 8/12, 8/11, 5/7)
 
+### Abstention
+
+For any self-elected reason, members of the committee may decide to abstain
+from a vote.
+
+Abstaining members will only be considered as contributing to quorum, in the
+event that a vote is called in a meeting.
+
 <!--
 
 STEERING CONSIDERATIONS
-
-Voting
-
-- [ ] Consider abstention from voting
 
 Removal
 
