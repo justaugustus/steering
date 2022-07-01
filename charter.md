@@ -63,6 +63,37 @@ processes set forth in the committee's [operations documentation][changes].
 
 ## Membership
 
+### Elections
+
+Every year, the Steering Committee holds a general election for open seats with
+[SIG Contributor Experience][sig-contribex] owning the process.
+
+SIG Contributor Experience may delegate this responsibility to a subproject.
+
+Our [election policy document][general-elections] covers the details for how
+this works.
+
+Policy and operations of special elections initiated by the Steering Committee
+for other reasons (as yet to be determined) may be handled by some agreed-upon
+[process][changes] by the committee.
+
+[general-elections]: /elections.md
+[sig-contribex]: https://git.k8s.io/community/sig-contributor-experience
+
+### Vacancies
+
+In the event of a resignation, removal, or other loss of an elected Steering 
+Committee member, the candidate with the next most votes from the previous 
+election will be offered the seat. This process will continue until the seat is 
+filled. 
+
+In case this fails to fill the seat, a special election for that position will 
+be held as soon as possible. [Eligible voters](https://git.k8s.io/steering/elections.md#eligibility-for-voting) from the most recent election 
+will vote in the special election (ie: eligibility will not be redetermined at 
+the time of the special election). A committee member elected in a special 
+election will serve out the remainder of the term for the person they are 
+replacing, regardless of the length of that remainder.
+
 ### Resignation
 
 If a committee member chooses not to continue in their role, for whatever
@@ -75,7 +106,7 @@ offboarding procedures at any time following the written notice.
 
 ### Removal
 
-### No confidence
+#### No confidence
 
 In the event a Steering Committee member receives a vote of no confidence from
 two-thirds of the remaining Steering Committee members, that person must either
@@ -143,37 +174,6 @@ Example:
 * 2.333... * 2 = 4.666...
 * Round up to the nearest whole number (5)
 * 5 members in attendance would be required to vote during a meeting
-
-## Elections
-
-Every year, the Steering Committee holds a general election for open seats with
-[SIG Contributor Experience][sig-contribex] owning the process.
-
-SIG Contributor Experience may delegate this responsibility to a subproject.
-
-Our [election policy document][general-elections] covers the details for how
-this works.
-
-Policy and operations of special elections initiated by the Steering Committee
-for other reasons (as yet to be determined) may be handled by some agreed-upon
-[process][changes] by the committee.
-
-[general-elections]: /elections.md
-[sig-contribex]: https://git.k8s.io/community/sig-contributor-experience
-
-### Vacancies
-
-In the event of a resignation, removal, or other loss of an elected Steering 
-Committee member, the candidate with the next most votes from the previous 
-election will be offered the seat. This process will continue until the seat is 
-filled. 
-
-In case this fails to fill the seat, a special election for that position will 
-be held as soon as possible. [Eligible voters](https://git.k8s.io/steering/elections.md#eligibility-for-voting) from the most recent election 
-will vote in the special election (ie: eligibility will not be redetermined at 
-the time of the special election). A committee member elected in a special 
-election will serve out the remainder of the term for the person they are 
-replacing, regardless of the length of that remainder.
 
 ## Inclusive Leadership Training
 
