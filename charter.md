@@ -141,6 +141,17 @@ Removal
 
 -->
 
+### No confidence
+
+In the event a Steering Committee member receives a vote of no confidence from
+two-thirds of the remaining Steering Committee members, that person must either
+resign or call a special election in which the project community will vote on
+whether that person remains or is removed from the Steering Committee. A
+majority of eligible voters participating in the election must vote in favor of
+the individual remaining; otherwise, they will be removed. The individual's
+participation in the Steering Committee will be suspended during the pendency
+of the special election.
+
 ## Voting
 
 <!--
