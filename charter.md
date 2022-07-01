@@ -95,18 +95,40 @@ offboarding procedures at any time following the written notice.
 
 ## Voting
 
+<!--
+
+COMMUNITY CONSIDERATIONS
+
+Voting
+
+- [ ] Better define voting requirements in specific scenarios
+  - Consider 5/7, as 4/6 is a simple majority of the entire committee
+  - Clarify requirements respective to size of committee and round up e.g., 7 * 2/3 = 4.6666..., which would be 5 votes out of 7
+  - Are there scenarios where unanimity should be considered?
+  - [Stephen] What about a combination of both?
+
+-->
+
 In the course of the committee's operations, members will be expected to vote
 on decisions within the body's purview.
 
-### Quorum
+These votes may proceed on agreed-upon platforms by the committee, such as:
 
-Steering committee members are generally expected to attend every meeting. We
-use the following guidelines to determine whether we have reached quorum and
-are able to proceed with a meeting.
+* a pull request
+* an issue
+* a Steering Committee [meeting](#meetings)
+* a mailing list
 
-* Round quorum up if total number of members is odd
-* Quorum to meet is 1/2 members attending (eg: 6/12, 6/11, 4/7)
-* Quorum to vote in a meeting is 2/3 members attending (eg: 8/12, 8/11, 5/7)
+Unless otherwise specified by a process, the requirement for passing a vote is
+a **_two-thirds supermajority of the
+[fixed membership of the committee](#composition)_**.
+
+Example:
+
+* 7 (members) / 3 = 2.333...
+* 2.333... * 2 = 4.666...
+* Round up to the nearest whole number (5)
+* 5 members in attendance would be required to vote during a meeting
 
 ### Abstention
 
@@ -115,6 +137,33 @@ from a vote.
 
 Abstaining members will only be considered as contributing to quorum, in the
 event that a vote is called in a meeting.
+
+## Meetings
+
+Steering Committee members are generally expected to attend every meeting. We
+use the following guidelines to determine whether we have reached quorum and
+are able to proceed with a meeting.
+
+### Quorum
+
+Quorum **to meet** is a **_majority of the
+[fixed membership of the committee](#composition)_**.
+
+Example:
+
+* 7 (members) / 2 = 3.5
+* Round up to the nearest whole number (4)
+* 4 members in attendance would be required to meet
+
+Quorum **to vote in a meeting** is a **_two-thirds supermajority of the
+[fixed membership of the committee](#composition)_**.
+
+Example:
+
+* 7 (members) / 3 = 2.333...
+* 2.333... * 2 = 4.666...
+* Round up to the nearest whole number (5)
+* 5 members in attendance would be required to vote during a meeting
 
 <!--
 
@@ -129,14 +178,6 @@ Removal
 - [ ] Consider prior art in changes to maintainership e.g., SPIFFE/SPIRE (https://github.com/spiffe/spire/blob/main/MAINTAINERS.md#changes-in-maintainership)
 
 COMMUNITY CONSIDERATIONS
-
-Voting
-
-- [ ] Better define voting requirements in specific scenarios
-  - Consider 5/7, as 4/6 is a simple majority of the entire committee
-  - Clarify requirements respective to size of committee and round up e.g., 7 * 2/3 = 4.6666..., which would be 5 votes out of 7
-  - Are there scenarios where unanimity should be considered?
-  - [Stephen] What about a combination of both?
 
 No Confidence
 
