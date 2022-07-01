@@ -53,22 +53,6 @@ The following responsibilities belong to the Steering Committe, but may be deleg
 * Control and delegate access to and establish processes regarding
   project resources/assets<sup>[6](#footnote6)</sup>  
 
-## Transparency
-
-The processes and operational model of the committee are intended to sustain a
-healthy open source community.
-Wherever and whenever possible, the committee strives to operate in a
-transparent manner.
-
-In keeping with the community's accepted definition of
-[_"committee"_][committee], committees do not always operate in the open and
-topics may arise that require discretion.
-
-In the absence of a documented process, seated committee members will determine
-an appropriate process and document it for transparency purposes.
-
-[committee]: https://git.k8s.io/community/governance.md#committees
-
 ## Changes
 
 In instances where a process is not already specified within this document,
@@ -78,10 +62,6 @@ processes set forth in the committee's [operations documentation][changes].
 [changes]: /operations/changes.md
 
 ## Membership
-
-### Composition
-
-The Steering Committee is composed of seven (7) members.
 
 ### Resignation
 
@@ -95,52 +75,6 @@ offboarding procedures at any time following the written notice.
 
 ### Removal
 
-<!--
-
-STEERING CONSIDERATIONS
-
-Removal
-
-- [ ] Special election for specific removal scenarios
-  - What is the perception of having a committee remove a representative that was elected by the community?
-- [ ] Codify the voting process and channels for removal scenarios
-- [ ] Consider CoCC guidance on removals as prior art: https://github.com/kubernetes/community/blob/master/committee-code-of-conduct/charter.md#removal
-- [ ] Consider prior art in changes to maintainership e.g., SPIFFE/SPIRE (https://github.com/spiffe/spire/blob/main/MAINTAINERS.md#changes-in-maintainership)
-
-COMMUNITY CONSIDERATIONS
-
-No Confidence
-
-- [ ] Provide guidelines on "no confidence"
-  - Process transparency could be considered inversely proportional to the importance of these guidelines
-
-Removal
-
-- [ ] Scope of removal of members (one, many)
-- [ ] Precedence for removal scenarios
-- [ ] What details of removal scenarios should be public/private?
-  - Call for removal?
-  - Reason for removal?
-  - Vote on removal?
-  - What are the public artifacts of the removal process?
-- [ ] What details of election results should be public/private?
-- [ ] Consequences of removal scenarios
-  - Are individuals ineligible for re-election?
-    - Should community members have an opinion in this decision?
-- [ ] When is removal appropriate?
-- [ ] How should CoC concerns be considered in the removal process? Should they be?
-- [ ] Guard against "popularity contests" or "burning at the person" in committee voting scenarios
-- [ ] Are there antitrust implications in the removal process?
-- [ ] Special elections may not have representative turnout
-  - Define guidance on acts and thresholds to consider in a vote for removal
-- [ ] Is removal an extraordinary power to grant?
-  - "Policies like this have to work for the good of the community both when used well and when used poorly."
-- [ ] Define removal process guidelines
-  - "brief rationale for removal" + short time + "brief rebuttal"
-  - Offer resignation as an option
-
--->
-
 ### No confidence
 
 In the event a Steering Committee member receives a vote of no confidence from
@@ -153,20 +87,6 @@ participation in the Steering Committee will be suspended during the pendency
 of the special election.
 
 ## Voting
-
-<!--
-
-COMMUNITY CONSIDERATIONS
-
-Voting
-
-- [ ] Better define voting requirements in specific scenarios
-  - Consider 5/7, as 4/6 is a simple majority of the entire committee
-  - Clarify requirements respective to size of committee and round up e.g., 7 * 2/3 = 4.6666..., which would be 5 votes out of 7
-  - Are there scenarios where unanimity should be considered?
-  - [Stephen] What about a combination of both?
-
--->
 
 In the course of the committee's operations, members will be expected to vote
 on decisions within the body's purview.
