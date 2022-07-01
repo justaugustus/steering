@@ -61,6 +61,22 @@ processes set forth in the committee's [operations documentation][changes].
 
 [changes]: /operations/changes.md
 
+## Membership
+
+### Composition
+
+The Steering Committee is composed of seven (7) members.
+
+### Resignation
+
+If a committee member chooses not to continue in their role, for whatever
+self-elected reason, they must notify the committee in writing. As a courtesy,
+such notifications should be given at least 30 calendar days in advance of
+their departure.
+
+The committee can choose to accept a member's resignation and carry out
+offboarding procedures at any time following the written notice.
+
 ## Quorum
 
 Steering committee members are generally expected to attend every meeting. We
@@ -82,10 +98,6 @@ Communication and transparency
 Voting
 
 - [ ] Consider abstention from voting
-
-Vacancies
-
-- [ ] Add resignation
 
 Removal
 
