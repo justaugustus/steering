@@ -53,6 +53,22 @@ The following responsibilities belong to the Steering Committe, but may be deleg
 * Control and delegate access to and establish processes regarding
   project resources/assets<sup>[6](#footnote6)</sup>  
 
+## Transparency
+
+The processes and operational model of the committee are intended to sustain a
+healthy open source community.
+Wherever and whenever possible, the committee strives to operate in a
+transparent manner.
+
+In keeping with the community's accepted definition of
+[_"committee"_][committee], committees do not always operate in the open and
+topics may arise that require discretion.
+
+In the absence of a documented process, seated committee members will determine
+an appropriate process and document it for transparency purposes.
+
+[committee]: https://git.k8s.io/community/governance.md#committees
+
 ## Changes
 
 In instances where a process is not already specified within this document,
@@ -90,10 +106,6 @@ are able to proceed with a meeting.
 <!--
 
 STEERING CONSIDERATIONS
-
-Communication and transparency
-
-- [ ] Clarify the concerns/requirements for private discussion in committees
 
 Voting
 
