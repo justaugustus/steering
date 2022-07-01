@@ -93,6 +93,54 @@ their departure.
 The committee can choose to accept a member's resignation and carry out
 offboarding procedures at any time following the written notice.
 
+### Removal
+
+<!--
+
+STEERING CONSIDERATIONS
+
+Removal
+
+- [ ] Special election for specific removal scenarios
+  - What is the perception of having a committee remove a representative that was elected by the community?
+- [ ] Codify the voting process and channels for removal scenarios
+- [ ] Consider CoCC guidance on removals as prior art: https://github.com/kubernetes/community/blob/master/committee-code-of-conduct/charter.md#removal
+- [ ] Consider prior art in changes to maintainership e.g., SPIFFE/SPIRE (https://github.com/spiffe/spire/blob/main/MAINTAINERS.md#changes-in-maintainership)
+
+COMMUNITY CONSIDERATIONS
+
+No Confidence
+
+- [ ] Provide guidelines on "no confidence"
+  - Process transparency could be considered inversely proportional to the importance of these guidelines
+
+Removal
+
+- [ ] Scope of removal of members (one, many)
+- [ ] Precedence for removal scenarios
+- [ ] What details of removal scenarios should be public/private?
+  - Call for removal?
+  - Reason for removal?
+  - Vote on removal?
+  - What are the public artifacts of the removal process?
+- [ ] What details of election results should be public/private?
+- [ ] Consequences of removal scenarios
+  - Are individuals ineligible for re-election?
+    - Should community members have an opinion in this decision?
+- [ ] When is removal appropriate?
+- [ ] How should CoC concerns be considered in the removal process? Should they be?
+- [ ] Guard against "popularity contests" or "burning at the person" in committee voting scenarios
+- [ ] Are there antitrust implications in the removal process?
+- [ ] Special elections may not have representative turnout
+  - Define guidance on acts and thresholds to consider in a vote for removal
+- [ ] Is removal an extraordinary power to grant?
+  - "Policies like this have to work for the good of the community both when used well and when used poorly."
+- [ ] Define removal process guidelines
+  - "brief rationale for removal" + short time + "brief rebuttal"
+  - Offer resignation as an option
+
+-->
+
 ## Voting
 
 <!--
@@ -164,52 +212,6 @@ Example:
 * 2.333... * 2 = 4.666...
 * Round up to the nearest whole number (5)
 * 5 members in attendance would be required to vote during a meeting
-
-<!--
-
-STEERING CONSIDERATIONS
-
-Removal
-
-- [ ] Special election for specific removal scenarios
-  - What is the perception of having a committee remove a representative that was elected by the community?
-- [ ] Codify the voting process and channels for removal scenarios
-- [ ] Consider CoCC guidance on removals as prior art: https://github.com/kubernetes/community/blob/master/committee-code-of-conduct/charter.md#removal
-- [ ] Consider prior art in changes to maintainership e.g., SPIFFE/SPIRE (https://github.com/spiffe/spire/blob/main/MAINTAINERS.md#changes-in-maintainership)
-
-COMMUNITY CONSIDERATIONS
-
-No Confidence
-
-- [ ] Provide guidelines on "no confidence"
-  - Process transparency could be considered inversely proportional to the importance of these guidelines
-
-Removal
-
-- [ ] Scope of removal of members (one, many)
-- [ ] Precedence for removal scenarios
-- [ ] What details of removal scenarios should be public/private?
-  - Call for removal?
-  - Reason for removal?
-  - Vote on removal?
-  - What are the public artifacts of the removal process?
-- [ ] What details of election results should be public/private?
-- [ ] Consequences of removal scenarios
-  - Are individuals ineligible for re-election?
-    - Should community members have an opinion in this decision?
-- [ ] When is removal appropriate?
-- [ ] How should CoC concerns be considered in the removal process? Should they be?
-- [ ] Guard against "popularity contests" or "burning at the person" in committee voting scenarios
-- [ ] Are there antitrust implications in the removal process?
-- [ ] Special elections may not have representative turnout
-  - Define guidance on acts and thresholds to consider in a vote for removal
-- [ ] Is removal an extraordinary power to grant?
-  - "Policies like this have to work for the good of the community both when used well and when used poorly."
-- [ ] Define removal process guidelines
-  - "brief rationale for removal" + short time + "brief rebuttal"
-  - Offer resignation as an option
-
--->
 
 ## Elections
 
