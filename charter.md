@@ -108,14 +108,17 @@ offboarding procedures at any time following the written notice.
 
 #### No confidence
 
-In the event a Steering Committee member receives a vote of no confidence from
-two-thirds of the remaining Steering Committee members, that person must either
-resign or call a special election in which the project community will vote on
-whether that person remains or is removed from the Steering Committee. A
-majority of eligible voters participating in the election must vote in favor of
-the individual remaining; otherwise, they will be removed. The individual's
-participation in the Steering Committee will be suspended during the pendency
-of the special election.
+A Steering Committee member may be removed by a two-thirds vote of no
+confidence from other Steering Committee members.
+
+The call for a vote will happen in a public Steering Committee meeting and a
+GitHub issue in kubernetes/steering by a current member and must be seconded by
+another.
+
+There is a one week community feedback period for contributors to use to reach
+out to Steering Committee members with their thoughts or log them on the open
+issue including non-binding votes. After that period, Steering Committee
+members have 48 hours to vote on the issue.
 
 ## Voting
 
