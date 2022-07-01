@@ -97,10 +97,6 @@ Removal
 
 COMMUNITY CONSIDERATIONS
 
-Elections
-
-- [ ] Mention Election subproject under SIG Contributor Experience as a specific owner, once it's established
-
 Voting
 
 - [ ] Better define voting requirements in specific scenarios
@@ -143,11 +139,22 @@ Removal
 
 ## Elections
 
-Every year, the Steering Committee holds an election for open seats with SIG 
-Contributor Experience owning the process. Our [election policy document](https://git.k8s.io/steering/elections.md) 
-covers the details for how this works.
+Every year, the Steering Committee holds a general election for open seats with
+[SIG Contributor Experience][sig-contribex] owning the process.
 
-### Vacancies and Removal
+SIG Contributor Experience may delegate this responsibility to a subproject.
+
+Our [election policy document][general-elections] covers the details for how
+this works.
+
+Policy and operations of special elections initiated by the Steering Committee
+for other reasons (as yet to be determined) may be handled by some agreed-upon
+[process][changes] by the committee.
+
+[general-elections]: /elections.md
+[sig-contribex]: https://git.k8s.io/community/sig-contributor-experience
+
+### Vacancies
 
 In the event of a resignation, removal, or other loss of an elected Steering 
 Committee member, the candidate with the next most votes from the previous 
@@ -160,12 +167,6 @@ will vote in the special election (ie: eligibility will not be redetermined at
 the time of the special election). A committee member elected in a special 
 election will serve out the remainder of the term for the person they are 
 replacing, regardless of the length of that remainder.
-
-#### Removal
-
-A Steering Committee member may be removed by a two-thirds vote of the other 
-Steering Committee members, with the impacted individual ineligible to 
-participate in the vote.
 
 ## Inclusive Leadership Training
 

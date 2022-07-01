@@ -127,7 +127,7 @@ History of election officers:
 
 ### Vacancies
 
-[Steering Committee charter](https://git.k8s.io/steering/charter.md)
+See [Steering Committee charter](/charter.md).
 
 ### Limiting Corporate Campaigning
 
