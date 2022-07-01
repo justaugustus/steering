@@ -63,6 +63,53 @@ are able to proceed with a meeting.
 * Quorum to meet is 1/2 members attending (eg: 6/12, 6/11, 4/7)
 * Quorum to vote in a meeting is 2/3 members attending (eg: 8/12, 8/11, 5/7)
 
+<!--
+
+STEERING CONSIDERATIONS
+
+- Special election for specific removal scenarios
+  - What is the perception of having a committee remove a representative that was elected by the community?
+- Codify the voting process and channels for removal scenarios
+- Clarify the concerns/requirements for private discussion in committees
+- Consider CoCC guidance on removals as prior art: https://github.com/kubernetes/community/blob/master/committee-code-of-conduct/charter.md#removal
+- Consider prior art in changes to maintainership e.g., SPIFFE/SPIRE (https://github.com/spiffe/spire/blob/main/MAINTAINERS.md#changes-in-maintainership)
+- Consider abstention from voting
+
+COMMUNITY CONSIDERATIONS
+
+- Better define voting requirements in specific scenarios
+  - Consider 5/7, as 4/6 is a simple majority of the entire committee
+  - Clarify requirements respective to size of committee and round up e.g., 7 * 2/3 = 4.6666..., which would be 5 votes out of 7
+  - Are there scenarios where unanimity should be considered?
+  - [Stephen] What about a combination of both?
+- Scope of removal of members (one, many)
+- Mention Election subproject under SIG Contributor Experience as a specific owner, once it's established
+- Precedence for removal scenarios
+- What details of removal scenarios should be public/private?
+  - Call for removal?
+  - Reason for removal?
+  - Vote on removal?
+  - What are the public artifacts of the removal process?
+- What details of election results should be public/private?
+- Consequences of removal scenarios
+  - Are individuals ineligible for re-election?
+    - Should community members have an opinion in this decision?
+- When is removal appropriate?
+- How should CoC concerns be considered in the removal process? Should they be?
+- Guard against "popularity contests" or "burning at the person" in committee voting scenarios
+- Are there antitrust implications in the removal process?
+- Provide guidelines on "no confidence"
+  - Process transparency could be considered inversely proportional to the importance of these guidelines
+- Special elections may not have representative turnout
+  - Define guidance on acts and thresholds to consider in a vote for removal
+- Is removal an extraordinary power to grant?
+  - "Policies like this have to work for the good of the community both when used well and when used poorly."
+- Define removal process guidelines
+  - "brief rationale for removal" + short time + "brief rebuttal"
+  - Offer resignation as an option
+
+-->
+
 ## Elections
 
 Every year, the Steering Committee holds an election for open seats with SIG 
