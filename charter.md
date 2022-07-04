@@ -142,7 +142,7 @@ In the event that 50% (or more) of the committee's members
 
 #### No confidence
 
-A Steering Committee member may be removed by a two-thirds vote of no
+A Steering Committee member may be removed by a three-fourths vote of no
 confidence from other Steering Committee members.
 
 The call for a vote of no confidence will happen in a public Steering Committee meeting and a
