@@ -65,10 +65,15 @@ processes set forth in the committee's [operations documentation][changes].
 
 ### Elections
 
+<!--
+
+- Consider explicitly mentioning SIG ContribEx's Elections subproject, once it
+exists.
+
+-->
+
 Every year, the Steering Committee holds a general election for open seats with
 [SIG Contributor Experience][sig-contribex] owning the process.
-
-SIG Contributor Experience may delegate this responsibility to a subproject.
 
 Our [election policy document][general-elections] covers the details for how
 this works.
@@ -87,7 +92,7 @@ Committee member, the candidate with the next most votes from the previous
 election will be offered the seat. This process will continue until the seat is 
 filled. 
 
-In case this fails to fill the seat, a special election for that position will 
+In case this process fails to fill the seat, a special election for that position will
 be held as soon as possible. [Eligible voters](https://git.k8s.io/steering/elections.md#eligibility-for-voting) from the most recent election 
 will vote in the special election (ie: eligibility will not be redetermined at 
 the time of the special election). A committee member elected in a special 
@@ -97,12 +102,7 @@ replacing, regardless of the length of that remainder.
 ### Resignation
 
 If a committee member chooses not to continue in their role, for whatever
-self-elected reason, they must notify the committee in writing. As a courtesy,
-such notifications should be given at least 30 calendar days in advance of
-their departure.
-
-The committee can choose to accept a member's resignation and carry out
-offboarding procedures at any time following the written notice.
+self-elected reason, they must notify the committee in writing.
 
 ### Removal
 
@@ -111,14 +111,14 @@ offboarding procedures at any time following the written notice.
 A Steering Committee member may be removed by a two-thirds vote of no
 confidence from other Steering Committee members.
 
-The call for a vote will happen in a public Steering Committee meeting and a
+The call for a vote of no confidence will happen in a public Steering Committee meeting and a
 GitHub issue in kubernetes/steering by a current member and must be seconded by
-another.
+another current member.
 
-There is a one week community feedback period for contributors to use to reach
+There will be a feedback period of one week for members of the community to reach
 out to Steering Committee members with their thoughts or log them on the open
-issue including non-binding votes. After that period, Steering Committee
-members have 48 hours to vote on the issue.
+issue, including non-binding votes. After this feedback period, Steering Committee
+members must vote on the issue within 48 hours.
 
 ## Voting
 
