@@ -78,6 +78,16 @@ Every year, the Steering Committee holds a general election for open seats with
 Our [election policy document][general-elections] covers the details for how
 this works.
 
+In the instance that a general election is called as a result of the
+[dissolution](#dissolution) of the current committee, the following rules will
+apply:
+
+* members of the current committee will not be allowed to run in the new
+  election
+* a new committee will be bootstrapped with:
+  * the top four candidates serving a two-year term
+  * the next three candidates serving a one-year team
+
 Policy and operations of special elections initiated by the Steering Committee
 for other reasons (as yet to be determined) may be handled by some agreed-upon
 [process][changes] by the committee.
@@ -103,6 +113,30 @@ replacing, regardless of the length of that remainder.
 
 If a committee member chooses not to continue in their role, for whatever
 self-elected reason, they must notify the committee in writing.
+
+### Dissolution
+
+If committee members believe that the committee is no longer able to act in
+accordance with the above [mission](#mission), the committee may dissolve by a
+few methods:
+
+* Dissolution by vote
+* Dissolution by loss of committee
+
+See [elections](#elections) for special criteria in the instance of a general
+election triggered by dissolution.
+
+#### Dissolution by vote
+
+The committee must specify a date of dissolution. Dissolution requires an
+affirmative vote of 75% of committee members, and must be unanimous when the
+committee has four (4) or fewer members. If the committee is dissolved, all
+seats are vacated on the date specified.
+
+#### Dissolution by loss of committee
+
+In the event that 50% (or more) of the committee's members
+[resign](#resignation) at the same time, the entire committee will be disbanded.
 
 ### Removal
 
